@@ -1,0 +1,14 @@
+/build/
+**/*~
+*.bak
+.DS_Store
+.project
+.classpath
+.settings
+.idea
+*.iml
+*.class
+*.log
+Thumbs.db
+target/
+test-output
